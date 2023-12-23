@@ -1,0 +1,5 @@
+﻿{
+  "Description": "웹 사이트 루트의 위치 Microsoft 365에 대한 도메인 소유권 확인 파일",
+  "Domain": "shschool.kr",
+  "Id": "5e85fe8d-c50d-4f80-861c-952db8bc633b"
+}
